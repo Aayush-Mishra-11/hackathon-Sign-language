@@ -1,0 +1,12 @@
+Flask
+tensorflow
+opencv-python
+numpy
+pillow
+scikit-learn
+pytesseract
+requests
+torch
+torchvision
+fastapi
+uvicorn
